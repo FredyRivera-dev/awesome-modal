@@ -74,6 +74,7 @@ If you'd like to be featured, submit a PR!
 
 | Repository | Content |
 |------------|---------|
+| [foldism](https://github.com/hgbrian/foldism) | Multi-algorithm protein structure prediction using Modal |
 | [biomodals](https://github.com/hgbrian/biomodals) | Bioinformatics tools running on Modal |
 | [GMTKN55 benchmark](https://github.com/ariwagen/personal-website/tree/main/scripts/gmtkn55) | Computational chemistry calculations for the [Neural Network Potentials Arena](https://ariwagen.com/nnp-arena.html) |
 | [helix](https://github.com/thebiodesignlab/helix) | Run protein-folding models on Modal |
