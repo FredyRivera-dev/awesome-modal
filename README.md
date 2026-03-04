@@ -31,6 +31,7 @@ If you'd like to be featured, submit a PR!
 | [comfy-deploy/models](https://github.com/comfy-deploy/models) | Optimized ComfyUI-based cloud deployments |
 | [qart-codes](https://github.com/charlesfrye/qart-codes) | QR Codes with aesthetically-pleasing corruptions |
 | [Fooocus-Modal](https://github.com/BarrenWardo/Fooocus-Modal) | Deploy Fooocus diffuser apps on Modal |
+| [Aquiles-Image](https://github.com/Aquiles-ai/Aquiles-Image) | OpenAI-compatible inference server for FLUX, SD3.5, Wan2.x and more |
 
 ## LLMs/Multimodal Models
 
